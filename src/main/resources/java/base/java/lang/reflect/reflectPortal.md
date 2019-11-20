@@ -2,7 +2,7 @@
 ---
 
 - Learning for class java.base.java.lang.reflect.Array
-    > [The article could be helped is here.][1]
+    > [The article could be helped is here.][1] (Which in Chinese for now.)
   
 
 [0]: https://github.com/taoism-o/learning-JDK-12/blob/master/Readme.md
