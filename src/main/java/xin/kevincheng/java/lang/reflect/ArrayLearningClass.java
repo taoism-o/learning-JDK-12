@@ -107,6 +107,14 @@ public class ArrayLearningClass {
         }
     }
 
+    /**
+     * @Author k5068
+     * @Date 2019/11/20 23:45
+     * @Description using enum parameter to judge which method to use for testing
+     * @Param [arrayLearningClassEnum]
+     * @Return void
+     * @Since
+     */
     static void test(ArrayLearningClassEnum arrayLearningClassEnum) {
         if (arrayLearningClassEnum.getType().equals(ArrayLearningClassConsts.NORMAL_PRIMITIVE_TYPE)) {
             testGetClassLoaderNormalPrimitiveTypeArray();
